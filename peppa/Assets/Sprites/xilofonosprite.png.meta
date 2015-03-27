@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 3aec34a3cba66e048bd97a573afa2bb3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fondoxilo
+    21300002: palo2
+    21300004: palo1
+    21300006: peppa
+    21300008: rojo
+    21300010: naranja
+    21300012: amarillo
+    21300014: verdebaj
+    21300016: verde
+    21300018: azulfu
+    21300020: azul
+    21300022: morado
+    21300024: xilofonosprite_0
+    21300026: xilofonosprite_1
+    21300028: xilofonosprite_2
+    21300030: xilofonosprite_3
+    21300032: xilofonosprite_4
+    21300034: xilofonosprite_5
+    21300036: xilofonosprite_6
+    21300038: xilofonosprite_7
+    21300040: xilofonosprite_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 47
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: xilofonosprite_0
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 5
+        width: 72
+        height: 373
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xilofonosprite_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 603
+        width: 479
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xilofonosprite_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 529
+        width: 435
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xilofonosprite_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 455
+        width: 400
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xilofonosprite_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 381
+        width: 372
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xilofonosprite_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 309
+        width: 333
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xilofonosprite_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 236
+        width: 284
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xilofonosprite_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 155
+        width: 229
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xilofonosprite_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 82
+        width: 213
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

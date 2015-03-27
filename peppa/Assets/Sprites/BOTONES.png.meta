@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 857ca7dcb4c923844942b8ecd97cba09
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ingles
+    21300002: xilofono
+    21300004: aprende
+    21300006: JUEGA
+    21300008: numeros
+    21300010: letras
+    21300012: espanol
+    21300014: botonatras
+    21300016: MUSICA
+    21300018: COLORES
+    21300020: 1
+    21300022: 2
+    21300024: 3
+    21300026: azulAplastado
+    21300028: rosadoAplastado
+    21300030: amarilloAplastado
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ingles
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 659
+        width: 276
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: xilofono
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 580
+        width: 280
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: aprende
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 497
+        width: 276
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: JUEGA
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 411
+        width: 280
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: numeros
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 316
+        width: 280
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: letras
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 224
+        width: 277
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: espanol
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 135
+        width: 276
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: botonatras
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 773
+        width: 104
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MUSICA
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 793
+        width: 284
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: COLORES
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 39
+        width: 289
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 964
+        width: 187
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 965
+        width: 196
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 909
+        width: 194
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: azulAplastado
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 738
+        width: 186
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rosadoAplastado
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 909
+        width: 193
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: amarilloAplastado
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 855
+        width: 193
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

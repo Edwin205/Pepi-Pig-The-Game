@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 68458505529fcab4687dfbf129f9c857
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: uno
+    21300002: deiz
+    21300004: cinco
+    21300006: dos
+    21300008: tres
+    21300010: cuatro
+    21300012: nueve
+    21300014: ocho
+    21300016: siete
+    21300018: seis
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: uno
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 346
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deiz
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 353
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cinco
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 357
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dos
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 246
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tres
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 241
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cuatro
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 250
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nueve
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 241
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ocho
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 73
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: siete
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 105
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seis
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 100
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

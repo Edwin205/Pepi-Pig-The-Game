@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: 7159f4fd4aa81c84a8c7481243a887eb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: personajes_0
+    21300002: personajes_1
+    21300004: personajes_2
+    21300006: personajes_3
+    21300008: personajes_4
+    21300010: personajes_5
+    21300012: personajes_6
+    21300014: personajes_7
+    21300016: personajes_8
+    21300018: personajes_9
+    21300020: personajes_10
+    21300022: personajes_11
+    21300024: personajes_12
+    21300026: personajes_13
+    21300028: personajes_14
+    21300030: personajes_15
+    21300032: personajes_16
+    21300034: personajes_17
+    21300036: personajes_18
+    21300038: personajes_19
+    21300040: personajes_20
+    21300042: personajes_21
+    21300044: personajes_22
+    21300046: personajes_23
+    21300048: personajes_24
+    21300050: personajes_25
+    21300052: personajes_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: personajes_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 628
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 644
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 554
+        width: 166
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 553
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 497
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 495
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 489
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_7
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 507
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 462
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 408
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 408
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_11
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 356
+        width: 147
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 332
+        width: 142
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 289
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_14
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 294
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 195
+        width: 120
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 275
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_17
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 216
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 227
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 226
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_20
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 173
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 173
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_22
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 150
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 77
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 118
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 118
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: personajes_26
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 108
+        width: 86
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
